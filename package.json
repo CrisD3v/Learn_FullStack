@@ -1,0 +1,19 @@
+{
+  "name": "learn_fullstack",
+  "version": "1.0.0",
+  "description": "Proyecto de aprendizaje NodeJs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CrisD3v/Learn_FullStack.git"
+  },
+  "author": "CrisDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrisD3v/Learn_FullStack/issues"
+  },
+  "homepage": "https://github.com/CrisD3v/Learn_FullStack#readme"
+}
